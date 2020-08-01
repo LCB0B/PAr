@@ -1,5 +1,5 @@
 # PAr (2nd Year Project a ECL)
-Inverse problem in advection diffussion equation : Source localisation
+Inverse problem in advection diffusion equation : Source localisation
 
 
 
@@ -15,3 +15,7 @@ Finally, thanks to the numerical solution we can solve the inverse problem. The 
 
 
 References :
+
+Valentin G. Stanev, Filip L. Iliev, Scott Hansen, Velimir V. Vesselinov, Boian S. Alexandrov, Identification of release sources in advection–diffusion system by machine learning combined with Green’s function inverse method, Applied Mathematical Modelling, Volume 60, 2018, Pages 64-76,
+
+Inverse Problems,Uniqueness in an inverse problem for a one-dimensional fractional diffusion equation, Jin Cheng1,2, Junichi Nakagawa3, Masahiro Yamamoto4 and Tomohiro Yamazaki4, Published 5 October 2009 • 2009 IOP Publishing Ltd
