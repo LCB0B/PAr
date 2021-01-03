@@ -1,9 +1,10 @@
 # PAr (2nd Year Project a ECL)
-Inverse problem in advection diffusion equation : Source localisation
+
+## Inverse problem in advection diffusion equation : Source localisation
 
 
 
-Abstract : 
+## Abstract : 
 
 The advection-diffusion equation is involved in various domains (fluids mechanics, semiconductors physics, stochastics process, financial mathematics). 
 We will take a closer look at its application towards atmospheric dispersion (example : smoke plume of a factory).
@@ -14,7 +15,7 @@ The second one is more effective but harder to implement.
 Finally, thanks to the numerical solution we can solve the inverse problem. The goal is to identify the shape of the source term from the boundary data.
 
 
-References :
+## References :
 
 Valentin G. Stanev, Filip L. Iliev, Scott Hansen, Velimir V. Vesselinov, Boian S. Alexandrov, Identification of release sources in advection–diffusion system by machine learning combined with Green’s function inverse method, Applied Mathematical Modelling, Volume 60, 2018, Pages 64-76,
 
